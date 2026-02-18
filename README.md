@@ -6,3 +6,4 @@ Formula:
 SI = (P × R × T) / 100
 
 Author: Deepthi
+updated
